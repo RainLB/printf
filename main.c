@@ -4,7 +4,7 @@
 
 /**
  * main - Entry point
- * by RainLB
+ * by k0uchar
  *
  * Return: Always 0
  */
